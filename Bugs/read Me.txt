@@ -1,0 +1,32 @@
+DVLD - Driving License Management
+Requirements -> Page6
+بالنسبة لخدمة اصدار بدل رخصة مفقودة في الصفحة رقم 6  يجب حذف اخر طلب التالي:
+"يجب على المتقدم تسليم الرخصة المنتهية اولا ليستطيع تجديدها"
+هو بالأساس بكون مضيعها  فلن يستطيع تسليمها
+--------------------
+User Controls : Add Comment to the lesson
+----------------------
+Applications: Local Driving Application Part 2
+مابصير يكون ال retake test تاريخه قبل ال test الرئيسي المفروض يكون اجباري بعده
+----------------------
+Add/Update Local Driving License Application
+قبل الاضافة أو التعديل يجب التحقق من شرط العمر للمتقدم
+Minimum Allowed Age
+ بحسب نوع ال 
+license class
+
+--------------------------------------
+Schedule Test Control (Part 2)
+يجب اضافة الساعة لل datetime picker أيضا لأن التاريخ غير كافي
+
+----------------------------------------------
+Applications_Local Driving Application Part 2
+يجب تخزين الرسوم الاضافية في حال الرسوب بإمتحان معين
+عند عملية ال 
+Retake Test
+
+بالوضع الحالي نقوم بتخزين تكاليف الامتحان الاساسية فقط
+في كلا الحالتين النجاح/الرسوب
+----------------------------------------------------
+License Table: Update LicenseClass column to LicenseClassID
+----------------------------------------------------
